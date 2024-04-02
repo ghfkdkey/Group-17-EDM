@@ -1,4 +1,4 @@
-Q-LAB : Peningkatan pendidikan berbasis gamifikasi untuk Indonesia Emas 2045
+# Q-LAB : Peningkatan pendidikan berbasis gamifikasi untuk Indonesia Emas 2045
 
 Deskripsi :
 Q-LAB(Quest Laboratory) adalah aplikasi pembelajaran yang mengangkat prinsip gamifikasi, dirancang untuk menyesuaikan konten dan metode pembelajaran berdasarkan analisis data aktual dari pengguna atau siswa. Aplikasi ini bertujuan untuk meningkatkan keterlibatan dan efektivitas pembelajaran dengan memahami dan merespons kebutuhan, preferensi, latar belakang, dan performa pengguna secara dinamis.
